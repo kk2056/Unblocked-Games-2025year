@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://unlocked2025.sbs/sitemap.xml
